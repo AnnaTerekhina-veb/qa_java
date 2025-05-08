@@ -22,4 +22,4 @@ public class Feline extends Animal implements Predator {
         return kittensCount;
     }
 
-}
+} //
